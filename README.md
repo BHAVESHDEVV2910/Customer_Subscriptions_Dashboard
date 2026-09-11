@@ -3,7 +3,7 @@
 ### Power BI Dashboard for Customer Retention, Subscription & Churn Analysis
 
 <p align = "center">
-<image src =           "widh= "100%" 
+<image src =  https://github.com/BHAVESHDEVV2910/Customer_Subscriptions_Dashboard/blob/main/Customer%20Subscription.png         "widh= "100%" 
 alt = "customer subscription">
 
 This project is an interactive **Power BI dashboard** designed to analyze customer subscription behavior, engagement, feedback, and churn patterns.
